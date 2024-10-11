@@ -1,0 +1,6 @@
+main.page= https://mid.ru/ru/foreign_policy/news/
+scraper.incognito=true
+div.page-content=page-content
+div.announce-item=announce__item
+random-delay.min=2000
+random-delay.max=5000
